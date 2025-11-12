@@ -1,7 +1,8 @@
 {
-  "latestVersionCode": 926,
-  "latestVersionName": "3.0 (926)",
+  "latestVersionCode": 927,
+  "latestVersionName": "3.0 (927)",
   "downloadUrl": "https://appteka.store/app/46ar252353",
   "title": "Appteka 3.0",
   "message": "  Refined dark UI with neon accents for an immersive look.\n  Instant download telemetry with ETA and progress notifications.\n  Hardening across search, uploads, and offline mode for smoother sessions."
 }
+
