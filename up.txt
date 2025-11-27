@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 926,
+  "latestVersionCode": 927,
   "latestVersionName": "3.0 (926)",
   "downloadUrl": "https://appteka.store/app/46ar252353",
   "title": "Appteka Rebuild 3.0",
