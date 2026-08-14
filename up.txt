@@ -3,5 +3,5 @@
   "latestVersionName": "23.0 (1174)",
   "downloadUrl": "https://appteka.store/app/1der309457",
   "title": "Appteka Rebuild 23.0",
-  "message": "New update available."
+  "message": "New features:\n• Multiple Accounts\n• Download Manager\n• Custom themes and fonts\n• Improved UI and stability."
 }
