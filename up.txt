@@ -1,7 +1,8 @@
+
 {
   "latestVersionCode": 1180,
   "latestVersionName": "23.1 (1180)",
   "downloadUrl": "https://appteka.store/app/554r330400",
   "title": "Appteka Rebuild 23.1",
-  "message": "🚀 What's New in v23.1\n\n✨ NEW FEATURES\n• Pause & Resume Downloads – Take full control of your downloads.\n• Smart App Import – Fetch descriptions, categories, and images from Google Play & GitHub in one click.\n• Feed Filters – Browse apps by Today, This Week, This Month, or All Time.\n• App Comparison – Easily compare apps side by side.\n• Save Apps – Bookmark your favorite apps for quick access.\n• Update Alerts – Get notified when saved apps receive updates.\n\n⚡ IMPROVEMENTS\n• Enhanced Account Switching – Faster and more seamless account management.\n• Refined UI – Smoother animations, cleaner layouts, and improved navigation.\n• Performance Optimizations – Better responsiveness and overall stability.\n\n🔥 Update now and enjoy the improved Appteka experience!"
+  "message": "🚀 WHAT'S NEW IN v23.1\n\n✨ NEW FEATURES\n\n• Pause & Resume Downloads\n• One-Click Import from Google Play & GitHub\n• Auto-Fetch App Details, Categories & Images\n• Feed Filters: Today, This Week, This Month & All\n• Compare Apps Side by Side\n• Save Your Favorite Apps\n• Get Notified About App Updates\n\n⚡ IMPROVEMENTS\n\n• Faster & Smoother Account Switching\n• Refined UI & Modern Design\n• Improved Navigation & Performance\n• Enhanced Stability & User Experience\n\n🔥 Update now to explore what's new!"
 }
