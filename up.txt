@@ -1,6 +1,6 @@
 
 {
-  "latestVersionCode": 1180,
+  "latestVersionCode": 1181,
   "latestVersionName": "23.2 (1181)",
   "downloadUrl": "https://appteka.store/app/c68r334031",
   "title": "Appteka Rebuild 23.2",
