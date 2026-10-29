@@ -2,7 +2,7 @@
 {
   "latestVersionCode": 1181,
   "latestVersionName": "23.2 (1181)",
-  "downloadUrl": "https://appteka.store/app/c68r334031",
+  "downloadUrl": "https://appteka.store/app/1d6r334032",
   "title": "Appteka Rebuild 23.2",
   "message": "🚀 WHAT'S NEW IN v23.2\n\n📺 FULL ANDROID TV SUPPORT\n\n• Fully Optimized Android TV Experience\n• Smooth Remote Navigation & Improved Focus\n• Redesigned TV Store with Enhanced Categories\n• TV-Friendly App Details, Screenshots & Versions\n• Easier Download & Saved App Management\n\n✨ NEW FEATURES\n\n• Version Release Dates – Track App Updates Easily\n• Copy Download Links – Long-Press the Install Button\n• Crash Reporting – Send Error Reports via Email\n• Refreshed Launch Screen with a Modern Look\n\n⚡ IMPROVEMENTS\n\n• Enhanced UI & Visual Consistency\n• Smoother Navigation & Better Responsiveness\n• Improved Stability & Performance\n• Bug Fixes & General Optimizations\n\n🔥 Appteka 23.2 – A Bigger Screen. A Better Experience!"
 }
